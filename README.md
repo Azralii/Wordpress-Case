@@ -1,7 +1,7 @@
 ##  Wordpress-Case
 
 Projekt Loggbok
- Vecka 10 (Projektstart)
+# logg 1 - Vecka 10 (Projektstart)
  
 Vad har gjorts sedan förra loggen?
 Det här är den första loggen för projektet. Vi har precis startat och hållit vårt första möte där vi diskuterade projektets mål och fördelade roller.
