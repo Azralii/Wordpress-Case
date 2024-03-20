@@ -1,6 +1,6 @@
 ##  Wordpress-Case
 
-Projekt Loggbok
+## Min fösrta Loggbok
 # logg 1 - Vecka 10 (Projektstart)
  
 Vad har gjorts sedan förra loggen?
