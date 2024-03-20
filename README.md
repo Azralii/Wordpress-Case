@@ -1,4 +1,4 @@
-## Wordpress-Case
+##  Wordpress-Case
 
 Projekt Loggbok
  Vecka 10 (Projektstart)
@@ -12,7 +12,7 @@ Under de kommande dagarna ska jag börja med att utforska den tilldelade uppgift
 Hur fungerar det i projektet?
 Hittills verkar projektet gå planenligt. Vi har en klar struktur och roller är fördelade. Kommunikationen är öppen och samarbetet känns positivt.
 
-  Logg 2 - Vecka 11
+ # Logg 2 - Vecka 11
  
 Vad har gjorts sedan förra loggen?
 Sedan förra loggen har jag arbetat på att samla in och sammanställa relevanta material för min del av projektet. Jag har också haft flera diskussioner med mina teammedlemmar för att synka våra framsteg och eventuella hinder.
@@ -23,7 +23,7 @@ De närmaste dagarna kommer jag att fortsätta med att sammanställa och bearbet
 Hur fungerar det i projektet?
 Projektet fortsätter att flyta på relativt smidigt. Vi har stött på några mindre utmaningar som vi har kunnat lösa genom öppen kommunikation och samarbete.
 
-#Logg 3 - Vecka 12
+# Logg 3 - Vecka 12
 
 Vad har gjorts sedan förra loggen?
 Under den här veckan har jag fokuserat på att slutföra min del av arbetet och förbereda mig för att integrera det med resten av projektet. Jag har också deltagit i flera diskussioner och möten för att hålla mig uppdaterad och stötta mina teammedlemmar.
