@@ -34,3 +34,19 @@ De närmaste dagarna kommer jag att arbeta med att integrera mitt arbete med res
 Hur fungerar det i projektet?
 Projektet går fortfarande enligt planen, men vi har märkt av några utmaningar när det gäller tidplaneringen. Vi diskuterar aktivt möjliga lösningar för att hantera detta och hålla projektet på rätt spår.
 
+
+# Logg 4 - Vecka 13
+Vad har gjorts sedan förra loggen?
+Under den senaste veckan har jag arbetat intensivt med att integrera och finjustera mitt arbete med resten av projektet. Dessutom har jag deltagit i flera slutliga möten för att säkerställa att alla delar är sammanfogade och att projektet är redo för presentation.
+
+Vad ska göras de närmsta dagarna?
+De kommande dagarna kommer vi att fokusera på att göra de sista förberedelserna inför presentationen och säkerställa att allt är klart för leverans. Jag kommer också att vara tillgänglig för eventuella sista minuten-justeringar och stödja mina teammedlemmar vid behov.
+
+Hur fungerar det i projektet?
+Projektet närmar sig sin slutfas och det finns en känsla av spänning och förväntan. Samarbetet har varit starkt och vi är alla ivriga att presentera vårt arbete för resten av gruppen och våra lärare.
+
+
+
+
+
+
